@@ -1,0 +1,10 @@
+Create virtual environment
+python3 -m venv ioverlander-chatbot
+
+Activate venv
+source ioverlander-chatbot/bin/activate
+
+Install Streamlit
+pip install streamlit
+
+
